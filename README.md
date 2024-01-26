@@ -1,2 +1,2 @@
 # Discord-Projects
-random discord code
+some random discord code
